@@ -12,6 +12,6 @@ Wait for atleast a mintues so each record will be updated using "a minute ago" c
 
 Once you click on reload button, only that record will be updated. 
 
-Conclution:
+# Conclution:
 
 Sampe approach can be used with Angular2 table format.
